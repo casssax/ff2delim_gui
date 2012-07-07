@@ -10,7 +10,7 @@ from System.Drawing import Color, Point
 from System.Windows.Forms import Application, Button, Form, Label,RadioButton
 from System.Windows.Forms import OpenFileDialog, DialogResult, BorderStyle
 
-#--------------------------------------------------------------
+#----------------------------------------------------------------
     # find last
 #----------------------------------------------------------------
 def find_last(field):  #returns last populated position in field
